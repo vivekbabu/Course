@@ -9,3 +9,9 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+
+Vivek Babu
+Dynamic Programming
+- It is one of the most useful problem solving technique
+- The problems that seem to be very tough can be broken down into smaller subprobems and then the solution becomes very easy
+- DP with memoisation makes use of recursion which allows us to visualize the problems better
